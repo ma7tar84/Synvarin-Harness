@@ -1,4 +1,4 @@
-# Synvarin v1.0.0
+# Synvarin Harness v1.0.0
 
 Synvarin is an autonomous AI agent harness and native desktop workspace designed for software engineering, deep research, and collaborative problem-solving. It runs natively on Windows with support for both local offline LLMs and major cloud AI providers.
 
