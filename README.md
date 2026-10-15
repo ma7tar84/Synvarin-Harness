@@ -6,7 +6,7 @@ Synvarin is an autonomous AI agent harness and native desktop workspace designed
 
 ### Highlights & Capabilities
 
-- **Unified Model Support**: Connect seamlessly to local inference servers (llama.cpp, Ollama, LM Studio) or leading cloud AI providers (OpenAI, Claude, and Google Gemini).
+- **Unified Model Support**: Connect seamlessly to local inference servers (llama.cpp, Ollama, LM Studio) or leading cloud AI providers (OpenAI, Anthropic, and Google Gemini).
 - **Specialized Operational Modes**:
   - **Coding Mode**: Autonomous multi-step development, project directory navigation, file edits, and system command execution.
   - **Chat Mode**: Focused conversational assistance and co-working.
